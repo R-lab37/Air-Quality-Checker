@@ -1,3 +1,4 @@
-# air_quality
+# Air Quality Checker App
 
-A new Flutter project.
+
+![Air](https://github.com/R-lab37/Air-Quality-Checker/blob/main/air_quality_check_app.png)
